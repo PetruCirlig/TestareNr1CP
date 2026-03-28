@@ -18,16 +18,6 @@ public class Ex3 {
         System.out.println("Scadere: " + scadere);
         System.out.println("Inmultire: " + inmultire);
 
-        if (b != 0) {
-            double impartire = a / b;
-            double rest = a % b;
-
-            System.out.println("Impartire: " + impartire);
-            System.out.println("Restul impartirii: " + rest);
-        } else {
-            System.out.println("Impartirea la 0 nu este permisa.");
-        }
-
         scanner.close();
     }
 }
