@@ -16,7 +16,7 @@ public class Ex19 {
                 System.out.println("Verde");
                 break;
             default:
-                System.out.println();
+                System.out.println("Aveti doar 3 optiuni: r, g, v");
         }
 
         scanner.close();

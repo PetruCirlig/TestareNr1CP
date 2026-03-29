@@ -8,5 +8,9 @@ public class Ex17 {
             }
         }
         System.out.println("Valoarea maxima este: " + maxim);
+        System.out.println("Valoarea maxima este: " + maxim);
+        System.out.println("Valoarea maxima este: " + maxim);
+        System.out.println("Valoarea maxima este: " + maxim);
+        System.out.println("Valoarea maxima este: " + maxim);
     }
 }
