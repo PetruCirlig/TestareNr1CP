@@ -9,7 +9,8 @@ public class Ex5 {
 
                 String parolaAscunsa = "";
                 for (int i = 0; i < parola.length(); i++) {
-                    parolaAscunsa += "0101";
+                   // parolaAscunsa += "0101";
+                    parolaAscunsa = parolaAscunsa + "0101";
                 }
 
                 System.out.println("Parola ta (Ascunsa): " + parolaAscunsa);
